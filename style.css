@@ -41,7 +41,7 @@ color: hsl(201, 11%, 66%);
 
 
 .btn-one{
-    margin: 0px 5px;
+    margin: 0px 20px;
     padding: 10px 20px;
     border-radius: 25px;
     border-color: transparent;
@@ -271,7 +271,7 @@ width: 370px;
 }
 .btn-one{
     margin-bottom: 25px;
-    padding: 15px 80px;
+    padding: 15px 60px;
     box-shadow: 3px 3px 5px gray;
     /* display: flex;
     flex-direction: column; */
@@ -279,7 +279,7 @@ width: 370px;
 }
 .btn-two{
     margin-bottom: 15px;
-    padding: 15px 80px;
+    padding: 15px 60px;
     box-shadow: 3px 3px 5px gray;
     /* display: flex;
     flex-direction: column; */
